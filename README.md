@@ -2,7 +2,7 @@
 
 Welcome to the CodSoft Team Projects repository! This folder contains a collection of projects that I worked on during my time with the CodSoft team. Each project showcases different aspects of my skills in data analysis, tools, and problem-solving.
 
-## Folder Structure
+## Project Structure
 
 - **Project 1: Credit Card Fraud Detection**
   - **Description:** This project focuses on building a machine learning model to predict whether a credit card transaction is fraudulent or not. The goal is to develop a robust system that can accurately identify fraudulent transactions and help prevent financial losses..
