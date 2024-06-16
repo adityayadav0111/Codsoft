@@ -4,7 +4,7 @@ Welcome to the CodSoft Team Projects repository! This folder contains a collecti
 
 ## Folder Structure
 
-- **Project 1: [Credit Card Fraud Detection]**
+- **Project 1: Credit Card Fraud Detection**
   - **Description:** This project focuses on building a machine learning model to predict whether a credit card transaction is fraudulent or not. The goal is to develop a robust system that can accurately identify fraudulent transactions and help prevent financial losses..
   - **Technologies Used:** Programming Languages: Python
                            Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
@@ -14,12 +14,14 @@ Welcome to the CodSoft Team Projects repository! This folder contains a collecti
                   Model Selection: Training various machine learning models such as Logistic Regression, Decision Trees, Random Forests
 
 
-- **Project 2: [Project Name]**
-  - **Description:** A brief overview of what this project is about.
-  - **Technologies Used:** List of programming languages, frameworks, and tools used in this project.
-  - **Features:** Key functionalities and features implemented.
-  - **Setup Instructions:** How to set up and run the project locally.
-  - **Contributions:** Specific contributions I made to this project.
+- **Project 2: Movie Rating Prediction**
+  - **Description:** This project involves building a machine learning model to predict movie ratings based on various features such as votes, Director, and Actors. The objective is to provide accurate rating predictions to enhance user experience on movie recommendation platforms.
+  - **Technologies Used:** Programming Languages: Python
+                           Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Surprise
+                           Tools: Jupyter Notebook
+  - **Features:** Data Collection: Aggregated movie rating data from public datasets such as the IMDB dataset.
+                 Data Preprocessing: Cleaned and prepared the data, including handling missing values, encoding categorical variables, and normalizing features.
+                 Exploratory Data Analysis (EDA): Analyzed data to uncover trends and insights, such as user behavior patterns and movie popularity.
 
 - **Project 3: [Project Name]**
   - **Description:** A brief overview of what this project is about.
