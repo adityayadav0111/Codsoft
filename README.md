@@ -13,13 +13,13 @@ Welcome to the CodSoft Team Projects repository! This folder contains a collecti
   - **Features:**
     - **Data Preprocessing:** Handling missing values, encoding categorical variables, feature scaling, and splitting the dataset into training and testing sets.
     - **Exploratory Data Analysis (EDA):** Visualizing data distributions, correlations, and identifying patterns that distinguish fraudulent transactions.
-    - **Model Selection:** Training various machine learning models such as Logistic Regression, Decision Trees, Random Forests.
+    - **Model Selection:** Training various machine learning models such as Logistic Regression and Decision Trees.
 
 - **Project 2: Movie Rating Prediction**
   - **Description:** This project involves building a machine learning model to predict movie ratings based on various features such as votes, Director, and Actors. The objective is to provide accurate rating predictions to enhance user experience on movie recommendation platforms.
   - **Technologies Used:**
     - **Programming Languages:** Python
-    - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Surprise
+    - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
     - **Tools:** Jupyter Notebook
   - **Features:**
     - **Data Collection:** Aggregated movie rating data from public datasets such as the IMDB dataset.
